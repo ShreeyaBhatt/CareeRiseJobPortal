@@ -1,0 +1,16 @@
+Name: Aarav Mehta
+Email: aarav.mehta@example.com
+Phone: 9988776001
+Location: Mumbai
+
+Objective:
+Seeking a software role utilizing Java skills.
+
+Experience:
+1yr as Java Developer at CodeWave Solutions.
+
+Skills:
+Java, Spring Boot, JSP
+
+Projects:
+Inventory Management System using Java.

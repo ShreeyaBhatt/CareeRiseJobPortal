@@ -1,0 +1,16 @@
+Name: Priya Nair
+Email: priya.nair@example.com
+Phone: 9988776034
+Location: Chennai
+
+Objective:
+Seeking a software role utilizing Java skills.
+
+Experience:
+1yr as Java Developer at BrightPath Technologies.
+
+Skills:
+Java, Spring Boot, JSP
+
+Projects:
+E-Commerce Website using Java.

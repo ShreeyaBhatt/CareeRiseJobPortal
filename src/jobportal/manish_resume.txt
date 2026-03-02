@@ -1,0 +1,16 @@
+Name: Manish Patel
+Email: manish.patel@example.com
+Phone: 9876543213
+Location: Ahmedabad
+
+Objective:
+Cloud engineer seeking AWS-focused role.
+
+Experience:
+2yrs cloud engineering with AWS at Tech Solutions.
+
+Skills:
+AWS, EC2, S3, CloudFormation
+
+Projects:
+Migrated legacy applications to AWS cloud.
