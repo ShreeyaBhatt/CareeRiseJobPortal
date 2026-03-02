@@ -1,0 +1,16 @@
+Name: Rohit Singh
+Email: rohit.singh@example.com
+Phone: 9988776655
+Location: Pune
+
+Objective:
+Seeking a software role utilizing Java skills.
+
+Experience:
+1yr as Java Developer at TechNest Systems.
+
+Skills:
+Java, Spring Boot, JSP
+
+Projects:
+Library Management System using Java.

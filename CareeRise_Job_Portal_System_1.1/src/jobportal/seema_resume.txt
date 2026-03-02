@@ -1,0 +1,16 @@
+Name: Seema Sharma
+Email: seema.sharma@example.com
+Phone: 9876543211
+Location: Mumbai
+
+Objective:
+Seeking a software role utilizing Java skills.
+
+Experience:
+1yr as Java Developer at SoftWeb Technologies.
+
+Skills:
+Java, Spring Boot, JSP
+
+Projects:
+Inventory Management System using Java.

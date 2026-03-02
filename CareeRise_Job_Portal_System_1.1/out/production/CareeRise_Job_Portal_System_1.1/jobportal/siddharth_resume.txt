@@ -1,0 +1,16 @@
+Name: Siddharth Joshi
+Email: siddharth.joshi@example.com
+Phone: 9988776067
+Location: Ahmedabad
+
+Objective:
+Seeking a software role utilizing Java skills.
+
+Experience:
+1yr as Java Developer at SoftNova Tech.
+
+Skills:
+Java, Spring Boot, JSP
+
+Projects:
+Hotel Booking System using Java.

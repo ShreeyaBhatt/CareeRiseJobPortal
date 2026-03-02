@@ -1,0 +1,16 @@
+Name: Dev Sharma
+Email: dev.sharma@example.com
+Phone: 9988776023
+Location: Hyderabad
+
+Objective:
+Seeking a software role utilizing Java skills.
+
+Experience:
+1yr as Java Developer at NextGen Coders.
+
+Skills:
+Java, Spring Boot, JSP
+
+Projects:
+Hospital Management System using Java.
